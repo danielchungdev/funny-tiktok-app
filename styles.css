@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(253, 127, 127);
+    background-color: #b3dee5;
 }
 
 .container{
@@ -21,7 +21,7 @@ body{
 h1{
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    color: rgb(255, 212, 212);
+    color: #FFA101;
     font-size: 5rem;
 }
 
