@@ -15,7 +15,7 @@ document.addEventListener('mousemove', (event) => {
 });
 
 const iKnewIt = () => {
-	alert("I knew you were going to say yes 😍")
+	alert("Gracias bbbb 😍")
 }
 
 const changePosition = (elementWidth, elementHeight) => {
