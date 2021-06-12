@@ -18,6 +18,10 @@ const iKnewIt = () => {
 	alert("Gracias bbbb 😍")
 }
 
+const noButton = () => {
+	alert(":oooo")
+}
+
 const changePosition = (elementWidth, elementHeight) => {
 	let width = window.innerWidth;
 	let height = window.innerHeight;
