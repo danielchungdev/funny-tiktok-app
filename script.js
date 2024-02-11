@@ -15,7 +15,7 @@ document.addEventListener('mousemove', (event) => {
 });
 
 const iKnewIt = () => {
-	alert("Awwww thank you so much 😍")
+	alert("Awwww tysm piggy owo")
 }
 
 const noButton = () => {
